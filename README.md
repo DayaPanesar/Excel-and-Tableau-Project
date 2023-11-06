@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This GitHub repository contains a data analysis project focused on the "Wealth of Nations" dataset. The project demonstrates a range of data analyst skills, including data cleaning, data transformation, critical thinking, and data visualization. The primary tools used for this analysis are Microsoft Excel for data preparation and Tableau for creating interactive data dashboards.
+This GitHub repository contains **my very first** data analysis project focused on the "Wealth of Nations" dataset. The project demonstrates a range of data analyst skills, including data cleaning, data transformation, critical thinking, and data visualization. The primary tools used for this analysis are Microsoft Word for reporting, Microsoft Excel for data preparation and Tableau for creating interactive data dashboards.
 
 ## Project Highlights
 
