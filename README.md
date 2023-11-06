@@ -26,7 +26,7 @@ To get started with this project, you can follow these steps:
 
 ## Project Dependencies
 
-- Microsoft Word (for reporting polcies and procedures)
+- Microsoft Word (for reporting policies and procedures)
 - Microsoft Excel (for data cleaning and transformation)
 - Tableau (for data visualization)
 
